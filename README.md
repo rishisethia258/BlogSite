@@ -12,7 +12,7 @@ This app uses NodeJS in backend with MongoDB as database and it was styled using
 
 This app also follows RESTful Routing Convention.
 
-To start this app clone this repo, and run the following commands.
+To start this app, clone this repo, and run the following commands.
 
 ```
 npm install
